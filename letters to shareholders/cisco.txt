@@ -1,0 +1,254 @@
+To our shareholders,
+Fiscal 2018 was a great year for Cisco.
+As I look back, I am incredibly proud of
+the tremendous progress we have made.
+We returned to growth while transforming
+our business model, we executed well
+against our strategy, and our innovation
+pipeline has never been stronger. I could
+not be more excited about our future.
+Harnessing the power of connections
+In today’s complex, hyperconnected cloud
+world, agility, security, and speed are
+critical. To thrive, companies must be able
+to understand and securely harness the
+power of their connections, find patterns
+and intelligence in data, and anticipate
+and respond to shifting market conditions
+and stakeholders’ needs. Our strategy
+is aligned with the changing needs of
+our customers. With our commitment
+to providing a highly secure, intelligent
+platform for digital business, Cisco is
+firmly focused on being the most strategic
+partner for our customers and helping
+them succeed in today’s world.
+The broad adoption of multicloud
+environments is changing the way our
+customers build and secure their IT
+infrastructure, and Cisco is at the center of
+this transition. Our highly secure, intelligent
+platform provides a critically important
+component: the ability to move workloads
+seamlessly across public and private clouds
+while ensuring that our customers’ security
+policies are applied effectively. In fiscal
+2018, we continued to innovate to manage
+complexity, deliver solutions, and enable
+applications for this environment. We
+have also extended our broad partnership
+ecosystem and have been working
+closely with the major cloud providers.
+We are simplifying how our customers
+work by providing consistent experiences
+in on-premises and public-cloud
+environments for the development,
+deployment, and management of
+applications, and we believe Cisco is
+very well positioned to benefit from the
+increasing adoption of multicloud.
+This past year we have also seen incredible
+momentum with our intent-based
+networking platform. Our customers are
+looking to have simplified, automated
+networks, and Cisco is delivering
+a fundamentally new, closed-loop
+system that is powered by intent and
+informed by context, constantly learning
+and adapting. The 2014 launch of
+our Application Centric Infrastructure
+(Cisco ACI)—policy-based automation for
+the data center—was our first step. We
+then brought intent-based networking to
+the access network with the launch of the
+Cisco Catalyst 9000 series of switches,
+Software-Defined Access (SD-Access),
+and DNA Center—a centralized management
+dashboard. Our Catalyst 9000 series of
+switches has become the fastest ramping
+product in Cisco’s history—testament,
+we believe, to its ability to future-proof
+networks; to integrate automation, security
+and analytics; and to free up operating
+expenses and resources for our customers.
+We have now extended SD-Access
+and DNA Center to the Internet of
+Things (IoT) environment, as well as
+extended Cisco ACI to the public cloud
+with Cisco ACI Anywhere. We have
+closed the loop with the addition of
+network assurance capabilities, providing
+continuous verification of the network’s
+intent, and offering insights and visibility
+into network policy and actions. We intend
+to extend open, programmable access
+across the entire network as we build
+an ecosystem around our intent-based
+networking portfolio.
+Inevitably, as connections multiply, the
+threat landscape continues to grow
+and the concept of a security perimeter
+disappears. Security is fundamental across
+our portfolio and is foundational to all we
+do at Cisco. Our strategy is to simplify
+and increase security efficacy through an
+architectural approach, with products that
+work together and share analytics and
+actionable threat intelligence. We have
+been working hard to build an end-to-end
+security architecture from the endpoint
+to the network to the cloud, covering the
+entire attack continuum.
+Shortly after the end of fiscal 2018,
+we announced our intention to acquire
+Duo Security to expand our cloud
+security capabilities. Duo’s multifactor
+authentication solution verifies the
+identity of users and the health of their
+devices before granting them access to
+applications, helping prevent cybersecurity
+breaches. Duo’s relevance within the
+context of our intent-based networking
+strategy spans the entire extended
+enterprise. Its portfolio of cloud-delivered
+solutions will help enable what our
+customers require in today’s multicloud
+world: the ability to securely connect any
+user on any device to any application on
+any network.
+Key Milestones
+1.87 million students in 180 countries
+participating in Cisco’s Networking
+Academy in fiscal 2018
+Partnership with Global
+Citizen, whose mission is to
+eradicate poverty by 2030
+300+ projects completed or under way as part of Cisco’s
+Country Digital Acceleration (CDA) program, encompassing
+economic development, entrepreneurship and innovation,
+research and education, and national infrastructures
+500,000+ registered
+users in DevNet, Cisco’s
+developer program
+440 million people
+positively impacted by our
+cash grant investments
+$383 million Cisco and
+Cisco Foundation cash
+and in-kind contributions
+in fiscal 2018
+Five-year, $50 million commitment
+to “Destination: Home,” a nonprofit
+organization, to help end
+homelessness in Silicon Valley
+2 Cisco 2018 Annual Report
+With intent-based networking, we have
+not only changed the building blocks for
+networks but have created a platform
+for innovation across our entire portfolio.
+In fiscal 2018, we introduced new
+wide-area network (WAN) offerings
+through the integration of Viptela’s
+SD-WAN capabilities with our core
+portfolio, as well as new access and data
+center offerings. With the integration of
+AppDynamics, we continued to develop
+our analytics capabilities, bringing
+end-to-end visibility and analytics from the
+end user to the network to the application.
+We also introduced new developer
+capabilities spanning all network domains
+through our DevNet program.
+We are dedicated to creating better
+experiences for our customers and
+employees, and one way we do this is
+through our collaboration portfolio. In
+fiscal 2018, we created a new integrated
+meetings experience with Cisco Webex
+and added cloud calling and contact
+center solutions through the acquisition
+of Broadsoft and integration with Google.
+With the acquisition of Accompany, we are
+adding more intelligence and contextual
+information to meeting and team
+collaboration experiences.
+Cultivating success
+Our relationships with our customers are
+changing from transactional to lifecycle, so
+we have created a Customer Experience
+organization to help ensure their success
+at every stage of their digitization journey.
+Our commitment to our customers’
+success also drives our belief that it is
+essential to have a diversity of experiences
+and perspectives on our leadership team
+to yield the best results.
+We are committed not only to our
+customers but also to making a difference
+in the world and solving some of the
+world’s greatest challenges. Two years
+ago we set a goal to positively impact
+one billion people by 2025, and every
+day we come a step closer through our
+focus on educating the workforce of the
+future through the Cisco Networking
+Academy, building stronger communities,
+and applying our resources to the most
+pressing societal issues.
+Transforming our business model
+As we integrate our products and services
+into architectures, we are selling more
+software and subscription-based offerings.
+These are designed to provide our
+customers with flexibility and continuous
+value, and at the same time they help us to
+shift our business model to more recurring
+revenue streams.
+In fiscal 2018, we delivered strong top-line
+growth and profitability, reporting our
+highest-ever revenue of $49.3 billion.
+Recurring offers accounted for 32% of
+our total revenue in fiscal 2018, and
+revenue from subscriptions was 54% of
+our software revenue. Our intention is to
+continue to drive recurring revenues by
+applying a subscription-based model to
+many of the new products we launch and
+ultimately across our entire portfolio.
+Our balance sheet remains strong, and
+we generated $13.7 billion in operating
+cash flow in fiscal 2018. We returned
+$23.6 billion to shareholders, comprising
+$6.0 billion of dividends and $17.7 billion
+of share repurchases.
+Capitalizing on our opportunities
+Our solid performance in fiscal 2018
+demonstrates a combination of strong
+customer adoption of our latest solutions,
+the ongoing value customers see in our
+software and subscription offerings, and
+excellent execution. Our customers are
+looking for us to provide even greater
+value to them by redesigning their IT
+architecture; delivering security; and
+building, orchestrating, and managing
+applications. We are delivering solutions
+that matter to our customers, our strategy
+is working, and we believe we are well
+positioned to capture growth across
+our portfolio.
+We are looking forward to fiscal 2019
+with a clear focus on growth, execution,
+and innovation. We will continue to drive
+automation, security, and analytics across
+the entire network infrastructure. We will
+also leverage our assets and the power
+of connections across our portfolio and
+create an architecture designed to support
+our customers’ success—all the way
+from IoT to multicloud—in a way that only
+Cisco can.
+Thank you for your continued support.
+Charles H. Robbins
+Chairman and Chief Executive Officer
+October 17, 2018

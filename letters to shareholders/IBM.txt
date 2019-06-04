@@ -1,0 +1,142 @@
+Dear IBM Investor:
+2018 was a defining year for IBM and our clients. Your company returned to growth, just as businesses readied to enter Chapter 2 of their digital reinventions.
+
+For years, we have focused on building the tools businesses need in the 21st century. Our investments have reshaped IBM to lead in the emerging, high-value segments of the IT market, including analytics, artificial intelligence, cloud, security, blockchain and quantum computing. At the same time, we have deepened our longstanding commitment to the responsible stewardship of technology.
+
+IBM is now ready to help our clients advance their business transformations.
+
+In my letter to you this year, I will describe IBM’s performance in 2018. I will outline how clients are poised to enter Chapter 2 of their digital reinventions, with help from IBM, and how this translates to growth for IBM, for businesses and for the world.
+
+2018: Return to Growth
+In 2018, IBM achieved $79.6 billion in revenue and operating earnings per share of $13.81. For the full year, we returned to revenue growth, grew earnings per share and stabilized margins.
+
+Our strategic and continued investment in innovative technology drove our improved competitive position and profit dynamics. Offerings that address data, AI, cloud, analytics and cybersecurity now represent more than half of our revenue—up from a quarter just four years ago—accounting for approximately $40 billion in revenue in 2018.
+
+Our investment of more than $5 billion in research and development produced thousands of breakthrough innovations, which led to IBM’s 26th consecutive year of U.S. patent leadership. Of the 9,100 patents granted to IBM in 2018, more than 1,600 were related to AI and 1,400 to cybersecurity—more than any other company in either area.
+
+This focus on breakthrough innovation has created IBM’s strongest portfolio ever and has driven results:
+
+Total cloud revenues were more than $19 billion in 2018, up 12 percent. In the fourth quarter alone, IBM signed 16 client services agreements worth more than $100 million to help optimize business performance on the IBM Cloud. Today, 47 of the Fortune 50 depend on the IBM Cloud.
+IBM is the world’s enterprise AI leader. Solutions enabled by IBM Watson are helping produce better decision-making and business outcomes through more than 20,000 client engagements, across 20 industries to date. IDC ranked IBM number one in AI market share. We continue to pioneer innovations in natural language processing, speech processing, computer vision and machine learning.
+IBM Blockchain is the global leader in improving trust and transparency across business networks by creating a new way for clients to share and secure data. IBM Blockchain now powers more than 500 client projects, with more than 85 active networks transforming supply chains, global shipping and cross-border finance.
+IBM Security, the world’s largest cybersecurity enterprise, has 8,000 subject matter experts serving more than 17,000 clients in more than 130 countries. The industry’s leading AI and cloud-based security solutions include IBM Security Connect, launched in 2018, which allows clients to gather, integrate and analyze security data across multiple applications and tools, in a vendor-agnostic way.
+IBM Systems produces innovative infrastructure for AI and hybrid cloud. The z14 is one of IBM’s most successful mainframe programs in history, with broad global adoption across 27 different industry segments. In addition, the U.S. Department of Energy’s POWER9-based supercomputers, Summit and Sierra, were ranked the most powerful supercomputers in the world in 2018.
+IBM Services was a key driver of IBM’s performance in 2018. Forty-seven engagements worth more than $100 million each helped major clients—like Bank of the Philippine Islands, Juniper Networks, Nordea, Westpac and Aditya Birla Retail—move to the next stage of their digital transformations.
+IBM Leadership
+
+#1 AI for business
+
+20,000+ IBM Watson client engagements across 20 industries.
+
+
+#1 in hybrid cloud
+
+47 of the Fortune 50 rely on IBM Cloud. Revenue for IBM Cloud topped $19 billion in 2018.
+
+
+#1 in enterprise services
+
+IBM Services, with end-to-end cloud and AI capabilities, closed 47 client agreements worth more than $100 million each in 2018.
+
+
+#1 in enterprise security
+
+IBM Security manages 70 billion cybersecurity events per day for clients in more than 130 countries.
+
+
+#1 in enterprise systems
+
+IBM Z is at the heart of world commerce with 30 billion transactions per day, including 87 percent of all credit card transactions.
+
+
+#1 in blockchain
+
+IBM Blockchain Platform was ranked number one by analyst firms Juniper Research and Everest Group.
+
+
+#1 in U.S. patents for the 26th consecutive year
+
+IBM inventors received a record 9,100 patents, including more than 3,000 in AI, cloud and quantum computing.
+
+
+#1 and #2 fastest supercomputers in the world
+
+Built by IBM for the U.S. Department of Energy based on IBM POWER9 CPUs tuned for AI workloads.
+
+New IBM investments are further energizing our portfolio. In late 2018, we announced plans to acquire Red Hat, the world’s leading open source technology provider for the enterprise. With this acquisition, which is expected to close in the second half of 2019, IBM will enhance our position as the world’s number one hybrid cloud provider, helping clients unlock the full business value of the cloud.
+
+We also continued to divest stand-alone software and services assets that are no longer strategic for IBM.
+
+At the same time, we remained committed to returning capital to our shareholders. In 2018, we returned more than $10 billion to you, our shareholders, including dividends of $5.7 billion and gross share repurchases of $4.4 billion. We raised our dividend for the 23rd consecutive year—IBM’s 103rd straight year of providing one.
+
+Moving Clients to the Next Chapter of Digital Reinvention
+For the past several years, businesses around the world have been driving their digital reinventions to take advantage of data, their most powerful source of competitive advantage.
+
+This first chapter has been defined largely by experimenting with narrow and disparate AI applications and moving simple workloads—typically consumer and customer-facing applications—to the cloud.
+
+Now, we are beginning to see the contours of Chapter 2 among pioneering businesses: moving from experimentation to true business transformation at scale with AI and hybrid cloud.
+
+This next chapter of digital reinvention will be enterprise-driven. It will be characterized first by scaling AI and embedding it everywhere in business. Second, in cloud, it will be characterized by moving mission-critical applications to hybrid cloud—using a combination of multiple public clouds, private clouds and on-premise IT capabilities, so businesses can create the environment most suitable for their enterprise workloads. Underpinning it all is the growing importance of trust, both in technologies and in their impact on the world.
+
+Scaling AI throughout the Enterprise
+In Chapter 2 of their digital reinventions, businesses will begin to scale AI across the enterprise, as some first movers are already demonstrating.
+
+Take the world’s leading banks, for example. While many have been applying AI to specific challenges, some first movers are scaling AI across the enterprise. Orange Bank, one of the fastest growing mobile banks in France, now manages all customer service through IBM Watson. Similarly, Banco Bradesco is now using IBM Watson to assist every member of its services team—resolving customer inquiries in seconds with nearly 95 percent accuracy.
+
+IBM brought AI for business into the mainstream with the introduction of our Watson platform in 2014. Today, IBM Watson is the most open and trusted AI for business, available to run on any environment—on premise, and in private and public clouds. Businesses can apply Watson to data wherever it is hosted and infuse AI into their applications, regardless of where they reside.
+
+With Watson Studio, Watson Machine Learning and Watson OpenScale, IBM delivers a suite of tools that allow enterprises to build, deploy and manage their AI models in a hybrid cloud environment. IBM Watson OpenScale, a first-of-a-kind platform introduced in 2018, also enables businesses to manage their AI—no matter where it was built or where it runs—with transparency, explainability and bias mitigation. Addressing these factors, which traditionally have held businesses back, is critical for scaling AI throughout an enterprise.
+
+Through IBM Services, we are helping our clients around the world apply AI to core business processes and workflows, infusing their businesses with automation, intelligence and continuous learning to transform everything from supply chains and HR to finance and operations.
+
+In 2018, we also launched a new service called IBM Talent and Transformation that addresses the often overlooked cultural aspects of AI. This service helps our clients ensure their teams have the right skills and talent—and the supporting culture and work environment—to support a new way of working that is critical to scaling AI for business.
+
+Moving Mission-Critical Work to Hybrid Cloud
+In the first chapter of digital reinvention, cloud deployments largely focused on easily portable workloads for productivity and commodity computing. This primarily was driven by user-facing applications inspired by advances in consumer technology. As a result, only 20 percent of enterprise workloads today have moved to the cloud.
+
+The remaining 80 percent of enterprise workloads provides the real value opportunity for business—transforming mission-critical workloads and applications for the cloud. The challenge is that most businesses have unique regulatory or data requirements and anywhere from five to 15 clouds across multiple providers.
+
+That is why businesses moving to Chapter 2 will need to embrace a new, hybrid cloud approach. It is one that will allow them to more easily move data and scale AI and other applications across public, private and on-premise IT in their enterprises, with consistent management and security protocols, using open source technology.
+
+For example, BNP Paribas, a leading European bank, is working with IBM to speed and scale the launch of new digital and AI customer services across the cloud, while protecting the security and confidentiality of customer data. Similarly, global telecom leader Vodafone Business is partnering with IBM to innovate the way it delivers multicloud and digital capabilities—including AI, edge computing, 5G and software-defined networking solutions—to its customers.
+
+IBM Services provides end-to-end cloud integration capabilities and is helping thousands of businesses migrate, integrate and manage applications and workloads seamlessly and securely across any cloud environment. Industry experts from IBM Services are co-creating cloud-enabled solutions with clients in our IBM Garages. Using design thinking and agile methods, we are helping clients implement new ways of working, such as rapid prototyping and iteration to more quickly move technology projects from pilot to production at scale.
+
+We are ready for this moment of moving clients to Chapter 2 of their digital reinventions with our unique integration of innovative technology, industry expertise and a reputation for trust and security earned over decades. IBM is now moving the world’s major enterprises to the next era, an effort that will be enhanced by our planned acquisition of Red Hat.
+
+“We are ready for this moment of moving clients to Chapter 2 of their digital reinventions with our unique integration of innovative technology, industry expertise and a reputation for trust and security earned over decades.”
+
+Chapter 2 of Trust and Responsible Stewardship
+We recognize that our clients and the consumers they serve expect more than groundbreaking innovation and industry expertise. They want to work with technology partners they can trust to protect their data and handle it responsibly. They want to work with partners who know how to bring new technologies into the world safely and help society benefit from them. And they want their partners to create inclusive workplaces and communities where diversity thrives.
+
+These expectations are linked by a common theme: responsibility. Responsibility has been a hallmark of IBM’s culture for 107 years—from our labs to our boardroom. IBMers’ unwavering global commitment to the responsible stewardship of data and powerful new technologies has earned us the trust of clients and society as a whole.
+
+In 2018, as trust in technology came under heightened global scrutiny, we published our IBM Principles for Trust and Transparency, which have long guided our company. They stress our belief that the purpose of new technologies is to augment—not replace—human intelligence, and that the data and insights derived from technology belong to the businesses who own them. The principles also emphasize that new technologies brought into the world must be open, transparent, explainable and free of bias.
+
+We know that AI, like other transformative technologies before it, will have a profound impact on peoples’ jobs and the workplace. That is why, in 2018, IBM further expanded access to the pathways through which students and professionals can build skills for today’s technology era. That includes “new collar” jobs, where having the right skills matters more than having a specific degree. Through our work in 11 U.S. states and 13 countries, there will be 200 Pathways in Technology Early College High Schools—or P-TECHs—serving a pipeline of 125,000 students in the 2019 school year.
+
+2018 also saw the rapid growth of our IBM Apprenticeship Program, which trains people in 21st-century skills ranging from blockchain and digital design to cybersecurity—and which expanded nearly twice as fast as we had projected in its first year.
+
+Yet skills are only part of today’s workforce opportunity. In 2018, fueled by record diverse hiring, promotion and retention, we achieved our greatest progress in a decade on diversity representation among global executive women and underrepresented minorities. We also continued advocating with governments around the world for policies that help ensure workplaces are as inclusive and diverse as the world we live in.
+
+Recognizing that responsible stewardship should not be confined within IBM’s walls, we also are working aggressively to empower others to do lasting good. We are, for example, a founding partner in Call for Code, a global initiative that works with software developers to create solutions that can help save lives. Last year, 100,000 open source developers from 156 countries responded to the call, creating more than 2,500 applications to help communities recover from natural disasters.
+
+As IBM sees it, the promise of technology is to empower people to do good, access new opportunities and make the world better, safer and smarter—for the many, not just the few.
+
+IBM Poised to Lead
+In summary, we have returned your company to growth. We have positioned IBM’s products, services and people to enable clients to write the next chapter of their digital reinventions. And we have done it all while reaffirming IBM’s longstanding reputation for trust, integrity and responsibility.
+
+Our work ahead is to build on this progress and bring these capabilities to life for our clients. I want to thank all of our clients for partnering with us while we reinvented IBM, and for choosing us for their own journeys of transformation.
+
+I also would like to thank our investors for their confidence in IBM. Finally, I would like to thank the hundreds of thousands of IBMers whose expertise has prepared us to lead in this new chapter of digital reinvention.
+
+I am honored to steward this great company, and I am filled with optimism about what we can achieve in partnership with our clients and society. Together, we are changing work and business—and ultimately, the world.
+
+ 
+ 
+Virginia M. Rometty
+Chairman, President and
+Chief Executive Officer
+
+ 
+In an effort to provide additional and useful information regarding the company’s financial results and other financial information, as determined by generally accepted accounting principles (GAAP), these materials contain non-GAAP financial measures on a continuing operations basis, including operating earnings per share and operating pre-tax income. The rationale for management’s use of this non-GAAP information is included on pages 18 and 19 of the company’s 2018 Annual Report, which is Exhibit 13 to the Form 10-K submitted with the SEC on February 26, 2019. For reconciliation of these non-GAAP financial measures to GAAP and other information, please refer to page 41 of the company’s 2018 Annual Report.
